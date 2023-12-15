@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in software engineering.<br>🌱 I’m currently learning C++<br>🔭I’m interested in cyber security, machine learning and backend development.<br>
+🔭 I’m currently studying in software engineering.<br>🌱🔭I’m interested in cyber security.<br>
 
 
 ## 🌐 Socials:
